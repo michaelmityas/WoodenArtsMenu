@@ -1,0 +1,25 @@
+.sec-header{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: rgb(96, 97, 96);
+}
+
+.span-char{
+    color: rgb(175, 4, 4);
+}
+
+.row-one{
+    margin: 1rem 0;
+}
+
+@media screen and (max-width: 767px){
+    .row-one{
+        margin-bottom: 3rem;
+    }
+}
+
+.footer-copyright{
+    background-color: black !important;
+}
